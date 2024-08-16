@@ -7,7 +7,7 @@ public class Assignment1 {
 	public static void show(String name, int age) {
 	
 			System.out.println("My name is " + name);
-			System.out.println("I am " + age + " years old");
+			System.out.println("I am " + age + "                years old");
 	}
 
 	public static void main(String[] args) {
